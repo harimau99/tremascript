@@ -1,4 +1,4 @@
-#trema script lSW
+#trema script LSW
 
 This script is intent for those who are attend the Openstack & SDN workshop 
 
